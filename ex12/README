@@ -1,0 +1,43 @@
+hanit1992, inbarwolff
+308396480, 204641708
+Hanit Hakim, Inbar Wolff
+I discussed the exercise with: 
+Guy Meler, Barel Levi, Shai Maarek
+=========================================
+ =	README for ex12: ex12.py	=
+=========================================
+README
+AUTHORS
+client.py
+gui.py
+black.gif
+blue.gif
+green.gif
+yellow.gif
+orang.gif
+red.gif
+violet.gif
+line.gif
+oval.gif
+rectangle.gif
+triangle.gif
+header.jpg
+logo.jpg
+=================
+ = Description: =
+=================
+In this exercise we've created a drawing program 
+which allows multiple users to connect to and draw together.
+Each user can choose a group he would like to draw in and join 
+the other users in this group to draw on a joint canvas.   
+
+==================
+ = Used Websites =
+==================
+https://docs.python.org/3/tutorial/
+wikipedia
+http://effbot.org/tkinterbook/tkinter-index.htm
+
+=====================
+ = Special Comments =
+=====================

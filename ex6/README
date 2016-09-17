@@ -1,0 +1,31 @@
+hanit1992
+308396480
+hanit hakim
+
+=============================
+=  README for ex6: photomosiac
+=============================
+
+
+==================
+=  Description:  =
+==================
+
+#In this exercise, i wrote a code that returns a big picture into a different presentation of the picture - using
+smaller pictures that will switch her pixels according to the best match that will be find. it contains 10 different
+functions, including a main function that runs the program.
+
+=============================
+=  List of submitted files: =
+=============================
+
+README
+ex6.py                this file contains all the functions of the code. some of them calls some functions from
+                      the helping given code "mosiac.py".
+
+
+======================
+=  Special Comments  =
+======================
+
+i discussed this exersice with GUY MELLER and NAVAV BORNSTEIN

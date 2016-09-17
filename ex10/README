@@ -1,0 +1,51 @@
+hanit1992
+308396480
+hanit hakim
+
+=============================
+=  README for ex10: building a 'wikipidia' network
+=============================
+
+
+==================
+=  Description:  =
+==================
+
+#In this exam, we created a demo 'wikipidia' network. the basic idea, was to create a path
+ between articles, in a way that each of them will be reached from another article.
+ for the convinience of this goal, the code was written with OOP, and includes two classes:
+ class Article - holds all the articles in the network and their attributes.
+ class WikiNetwork - holds the network itself and all her attributes.
+
+=============================
+=  List of submitted files: =
+=============================
+
+README
+ex10.py                this file contains all the functions, as part of two classes.
+
+======================
+=  Special Comments  =
+======================
+
+# i discussed this exersice with SHAY MAAREK, GUY MELLER, ISHAY BITTON, LEAH COHEN TANNOUDJI
+# answeres for requested questions:
+
+  1.3 articles with the highest 'page rank':
+  "UNITED STATES"
+  "FRANCE"
+  "EUROPE"
+
+  2.second highest jaccard index after the article itself:
+  "United_Kingdom" - "Scotland"
+  "Israel" - "Yemen"
+  "United_States" - "Driving_on_the_left_or_right"
+  "Algebra" - "Calculus"
+  "World_War_II" - "Adolf_Hitler"
+
+  3.a)article precentage in depth 1 from "christopher colombus":
+    0.9172308364271675
+    b)article precentage in depth 2 from "DNA":
+    13.758462546407513
+    c)article precentage in depth 3 from "HISTORY":
+    61.694693164446385
