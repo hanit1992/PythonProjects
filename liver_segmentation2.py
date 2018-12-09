@@ -295,16 +295,16 @@ def multipleSeedsRegionGrowing(ct_scan, ROI):
 
     i = 0
     inside_range_neighbors_mask = np.zeros(ct_scan_data.shape)
-    while not (np.all(labeled_pixels)):
-    # while len(pixels_to_investigate)>0:
+    # while not (np.all(labeled_pixels)):
+    while len(pixels_to_investigate)>0:
         #TODO add a break condition that if all is labeled - to break
         i=i+1
 
         # if i==300:
             # break
         # breaking when all is labeled
-        # if (np.all(labeled_pixels)):
-        #     break
+        if (np.all(labeled_pixels)):
+            break
 
         curr_pixel = pixels_to_investigate.pop()
 
